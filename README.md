@@ -15,6 +15,7 @@ I am a sophomore at Ho Chi Minh city University of Industry and Trade, my major 
 - Tools: Visual Studio, Visual Studio Code, Git, GitHub, Postman.
 #### Hobbies:
 - Reading, music, anime/manga/light novel,...
+- Game: Leage of Legends, Valorant, Arena of Valor
 #### Goals:
 - Become a master at back-end developement 
 - Work on challenging and interesting projects
