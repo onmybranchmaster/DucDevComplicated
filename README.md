@@ -10,12 +10,12 @@
 I am a sophomore at Ho Chi Minh city University of Industry and Trade, my major is Computer Science and I am learning to become a Back-end Developer in the future.
 
 #### Technical skills:
-Languages: C/C++, C#, JavaScript, NodeJs, Golang.
-Frameworks: .NET, React.
-Tools: Visual Studio, Visual Studio Code, Git, GitHub, Postman.
+- Languages: C/C++, C#, JavaScript, NodeJs, Golang.
+- Frameworks: .NET, React.
+- Tools: Visual Studio, Visual Studio Code, Git, GitHub, Postman.
 #### Hobbies:
-Reading, music, anime/manga/light novel,...
+- Reading, music, anime/manga/light novel,...
 #### Goals:
-Become a master at back-end developement 
-Work on challenging and interesting projects
-Contribute to the open source community
+- Become a master at back-end developement 
+- Work on challenging and interesting projects
+- Contribute to the open source community
