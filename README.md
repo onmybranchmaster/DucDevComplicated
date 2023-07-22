@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Manh Duc</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
+###
+
 - 🔭 I’m currently studying at **Ho Chi Minh city University of Industry and Trade**
 
 - 🌱 I’m currently learning **to become a better programmer**
@@ -8,6 +10,8 @@
 - 📫 How to reach me **hoangmanhducdev@gmail.com**
 
 - ⚡ Fun fact **I have no Skill Issues**
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
