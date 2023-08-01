@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Manh Duc</h1>
+<h1 align="center">Hello World 👋, I'm Hoang Manh Duc</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
 ###
@@ -25,10 +25,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
@@ -41,11 +37,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -53,11 +45,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terminal" height="40" alt="css3 logo"  />
 </div>
 
 
