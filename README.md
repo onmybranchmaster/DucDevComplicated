@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying at **Ho Chi Minh city University of Industry and Trade**
 
-- 🌱 I’m currently learning **to become a better programmer**
+- 🌱 I’m currently learning **to become a better Developer**
 
-- 📫 How to reach me **hoangmanhducdev@gmail.com**
+- 📫 How to reach me **hoangmanhduc.dev@gmail.com**
 
 - ⚡ Fun fact **I have no Skill Issues**
 
