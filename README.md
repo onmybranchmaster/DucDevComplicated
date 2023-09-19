@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hoangmanhduc.dev@gmail.com**
 
-- ⚡ Fun fact **I have no Skill Issues**
+- ⚡ Fun fact about me **I love Cats**
 
 ###
 
